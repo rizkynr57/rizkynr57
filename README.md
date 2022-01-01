@@ -47,9 +47,11 @@
 
 <img align="center" width="100%" height="530px" alt="" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
-
-![RizkyN's github stats](https://github-readme-stats.vercel.app/api?username=neya18&show_icons=true&hide=[%22issues%22])
-
+<p align="center">
+  <img width="50%" height= "150" src="https://github-readme-stats.vercel.app/api?username=neya18&theme=react&show_icons=true&include_all_commits=true" />
+	
+</p>
+	
 ### Skills
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
