@@ -1,4 +1,5 @@
- 
+ <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
 
 
 <h1> .•♫•♬• 𝙃𝙚𝙡𝙡-𝙤•♬•♫•., I'm Rizky Nurahman</h1>  <br>
