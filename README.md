@@ -50,8 +50,8 @@
 
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=neya18&theme=react&show_icons=true&include_all_commits=true" />
-	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neya18&theme=react&layout=compact" />
+  <img height="100" src="https://github-readme-stats.vercel.app/api?username=neya18&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neya18&theme=react&layout=compact" />
 </p>
 
 	
