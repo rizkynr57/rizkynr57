@@ -1,5 +1,5 @@
  
- <img width="100%" src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
+
 
 <h1> .•♫•♬• 𝙃𝙚𝙡𝙡-𝙤•♬•♫•., I'm Rizky Nurahman</h1>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <br />
 
