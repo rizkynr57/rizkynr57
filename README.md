@@ -11,6 +11,10 @@
 
 
 
+<p align="center"><b>Stalker's Count</b></p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
+
 
 
 
