@@ -71,6 +71,9 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='26px'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='26px' />
 
+
+<p align="center"><img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg"></p>
+
 <p align="center">
   
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="" /></p>
