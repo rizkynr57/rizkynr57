@@ -33,7 +33,7 @@
 	
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2314465C&size=30&lines=I'm+Student+of+Asslaam!;Prospective+Web+Developer!;And+Designer!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2314465C&size=30&lines=I'm+Student+of+Assalaam!;Prospective+Web+Developer!;And+Designer!!!)](https://git.io/typing-svg)
 
 - 💻 I always make an experiment code!!
 - 🌱 I’m currently learning everything which possible!!
