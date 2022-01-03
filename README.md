@@ -42,7 +42,7 @@
 
 
 
-<img align="center" width="100%" height="530px" alt="" src="https://data.whicdn.com/images/56397728/original.gif" />
+<img align="center" width="100%" height="400px" alt="" src="https://data.whicdn.com/images/56397728/original.gif" />
 
 <p align="center"><b>Stalker's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
