@@ -33,9 +33,9 @@
 	
 </p>
 
-<p>
+
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Student+of+Assalaam!;Prospective+Developer!;And+Designer!!!&font=Fira%20Code&$color=#000000&center=true&width=380&height=50">
-</p>
+
 
 - 💻 I always make an experiment code!!
 - 🌱 I’m currently learning everything which possible!!
