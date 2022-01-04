@@ -43,7 +43,7 @@
 
 	
 <p align="center">
-<img width="85%" height="350px" alt="" src="https://i0.wp.com/c.tenor.com/eIf7TQDePV4AAAAd/that-time-i-got-reincarnated-as-a-slime-tensei-shitara-slime-datta-ken.gif" />
+<img width="85%" height="250px" alt="" src="https://i0.wp.com/c.tenor.com/eIf7TQDePV4AAAAd/that-time-i-got-reincarnated-as-a-slime-tensei-shitara-slime-datta-ken.gif" />
 </p>
 <p align="center"><b>Stalker's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
