@@ -34,12 +34,12 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2314465C&size=30&lines=I'm+Student+of+Assalaam!;Prospective+Web+Developer!;And+Designer!!!)](https://git.io/typing-svg)
-
+<strong>
 - 💻 I always make an experiment code!!
 - 🌱 I’m currently learning everything which possible!!
 - 🥅 2021 - 2022 Goals: Become Web Developer!!
 - ⚡ I love to read comics and mangas!
-
+</strong>
 
 <p align="center">
 <img width="60%" height="250px" alt="" src="https://data.whicdn.com/images/56397728/original.gif" />
