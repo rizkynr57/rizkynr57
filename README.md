@@ -2,9 +2,8 @@
 
 
 
-<h1> .•♫•♬• 𝙃𝙚𝙡𝙡𝙤•♬•♫•.</h1>  <br>
+<h1 align="center"> .•♫•♬• 𝙃𝙚𝙡𝙡𝙤•♬•♫•.</h1>  <br>
 
-<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="" /> </p>
 
 
