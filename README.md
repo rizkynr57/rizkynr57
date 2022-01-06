@@ -1,5 +1,6 @@
- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-
+ <p align="center">
+<img width="100%" height="350px" alt="" src="https://github.com/reign90/images/blob/main/FIQlyecaQAAiIlY.jpeg" />
+</p>
 
 
 <h1 align="center"> .•♫•♬• 𝙃𝙚𝙡𝙡𝙤•♬•♫•. , I'm Rizky Nurahman</h1>  <br>
@@ -42,9 +43,8 @@
 </strong>
 
 	
-<p align="center">
-<img width="85%" height="250px" alt="" src="https://i0.wp.com/c.tenor.com/eIf7TQDePV4AAAAd/that-time-i-got-reincarnated-as-a-slime-tensei-shitara-slime-datta-ken.gif" />
-</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 
 <p align="center">
