@@ -1,6 +1,5 @@
- <p align="center">
-<img width="100%" height="350px" alt="" src="https://github.com/reign90/images/blob/main/FIQlyecaQAAiIlY.jpeg" />
-</p>
+ <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
 
 
 <h1 align="center"> .•♫•♬• 𝙃𝙚𝙡𝙡𝙤•♬•♫•. , I'm Rizky Nurahman</h1>  <br>
@@ -44,8 +43,10 @@
 
 	
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
+<p align="center">
+<img width="75%" height="300px" alt="" src="https://github.com/reign90/images/blob/main/FIQlyecaQAAiIlY.jpeg" />
+</p>
 
 <p align="center">
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=reign90&theme=react&show_icons=true&include_all_commits=true" />
