@@ -39,16 +39,16 @@
 
 <p align="center">
 	
-             💻 I always make an experiment code!!
-             🌱 I’m currently learning everything which possible!!
-             🥅 2021 - 2022 Goals: Become Web Developer!!
-             ⚡ I love to read comics and mangas!
+    💻 I always make an experiment code!!
+    🌱 I’m currently learning everything which possible!!
+    🥅 2021 - 2022 Goals: Become Web Developer!!
+    ⚡ I love to read comics and mangas!
 	
 </p>
 
 
 <p align="center">
-<img alt="" width="70%"  src="https://github.com/reign90/images/blob/main/FIQlyecaQAAiIlY.jpeg">
+<img alt="" width="85%"  src="https://github.com/reign90/images/blob/main/FIQlyecaQAAiIlY.jpeg">
 </p>
 
 <p align="center">
