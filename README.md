@@ -2,7 +2,8 @@
 
 
 
-<h1 align="center"> .•♫•♬• 𝙃𝙚𝙡𝙡𝙤•♬•♫•. , I'm Rizky Nurahman</h1>  <br>
+## Hello, I'm [Rizky Nurahman!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="" /> </p>
 
@@ -37,6 +38,7 @@
 
 
 <p align="center">
+	
     - 💻 I always make an experiment code!!
     - 🌱 I’m currently learning everything which possible!!
     - 🥅 2021 - 2022 Goals: Become Web Developer!!
