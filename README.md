@@ -8,8 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="" /> </p>
 
 
-<a href="https://twitter.com/nxtn">
-  <img src="https://img.shields.io/badge/@nxtn-1da1f2?style=for-the-badge&labelColor=1da1f2&color=1da1f2&logo=twitter&logoColor=white&label=Follow" alt="Follow on Twitter"/>
+<a href="https://twitter.com/RizkyNRN">
+  <img src="https://img.shields.io/badge/@RizkyNRN-1da1f2?style=for-the-badge&labelColor=1da1f2&color=1da1f2&logo=twitter&logoColor=white&label=Follow" alt="Follow on Twitter"/>
   </a>
 
 [![Gmail Badge](https://img.shields.io/badge/-rizky.nurahman48@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizky.nurahman48@gmail.com)](mailto:rizky.nurahman48@gmail.com) <br />
