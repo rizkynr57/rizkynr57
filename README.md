@@ -45,7 +45,7 @@
 
 
 <p align="center">
-<img width="80%" height="300px" alt="" src="https://github.com/reign90/images/blob/main/FIQlyecaQAAiIlY.jpeg" />
+<img width="85%" height="300px" alt="" src="https://github.com/reign90/images/blob/main/FIQlyecaQAAiIlY.jpeg" />
 </p>
 
 <p align="center">
