@@ -39,10 +39,10 @@
 
 <p align="center">
 	
-                                 💻 I always make an experiment code!!
-                                 🌱 I’m currently learning everything which possible!!
-                                 🥅 2021 - 2022 Goals: Become Web Developer!!
-                                 ⚡ I love to read comics and mangas!
+             💻 I always make an experiment code!!
+             🌱 I’m currently learning everything which possible!!
+             🥅 2021 - 2022 Goals: Become Web Developer!!
+             ⚡ I love to read comics and mangas!
 	
 </p>
 
