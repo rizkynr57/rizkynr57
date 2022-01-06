@@ -39,8 +39,9 @@
 
 <p align="center">
 	
-    💻 I like make an experiment code!!
-    🌱 I’m currently learning everything which possible!!
+    💻 I like to make an code experiments just for fun!!
+    📕 I like to try and learn new somethings!!!
+    🌱 I'm currently learning everything that's possible!!
     🥅 2021 - 2022 Goals: Become Web Developer!!
     ⚡ I love to read comics and mangas!
 	
