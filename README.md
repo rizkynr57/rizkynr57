@@ -47,6 +47,7 @@
     🌱 I'm currently learning everything that's possible!!
     🥅 2021 - 2022 Goals: Become Web Developer!!
     ⚡ I love to read comics and mangas!
+    🍜 I don't like to eat, only eat when hungry!
 	
 </p>
 
