@@ -18,7 +18,7 @@
 
 <br>
 
-<p align="center"><b>Stalker's Count</b></p>
+<p align="center"><b>Visitor</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
 
  <h3 align="center">  
@@ -52,7 +52,7 @@
 
 
 <p align="center">
-<img alt="" width="85%"  src="https://github.com/reign90/images/blob/main/FIQlyecaQAAiIlY.jpeg">
+<img alt="" width="100%"  src="https://github.com/reign90/images/blob/main/FIQlyecaQAAiIlY.jpeg">
 </p>
 
 <p align="center">
