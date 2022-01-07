@@ -24,7 +24,7 @@
 
  <h3 align="center">  
 
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Social Media : </h3>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contact : </h3>
 <br />
 
 <p align="center">
