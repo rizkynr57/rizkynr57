@@ -16,7 +16,7 @@
   </a>
 
 [![Gmail Badge](https://img.shields.io/badge/-rizky.nurahman48@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizky.nurahman48@gmail.com)](mailto:rizky.nurahman48@gmail.com) <br />
-[![​Facebook Badge​](https://img.shields.io/badge/-Reynathan_Sean_-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?email=rizky.nurahman.77=about)](https://www.facebook.com/profile.php?email=rizky.nurahman.77=about)
+[![​Facebook Badge​](https://img.shields.io/badge/-Rheazkyy_-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?email=rizky.nurahman.77=about)](https://www.facebook.com/profile.php?email=rizky.nurahman.77=about)
 
 
 <br>
