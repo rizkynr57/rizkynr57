@@ -45,8 +45,8 @@
 
 
 <p align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=rizkynr90&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkynr90&theme=react&layout=compact" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=reign57&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reign57&theme=react&layout=compact" />
 </p>
 
 	
