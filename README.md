@@ -1,6 +1,4 @@
- 
- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<img src="https://camo.githubusercontent.com/561b5d2111ce802214b018b6cc323ee4d9f66b97453ea6d8c4967db41b98f840/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d56696e6179616b426563746f7232303032267468656d653d64726163756c612672616e6b3d532c4141412c41412c422c432c41266d617267696e2d773d3130"><br>
+ <img src="https://camo.githubusercontent.com/561b5d2111ce802214b018b6cc323ee4d9f66b97453ea6d8c4967db41b98f840/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d56696e6179616b426563746f7232303032267468656d653d64726163756c612672616e6b3d532c4141412c41412c422c432c41266d617267696e2d773d3130"><br>
 
 
 ## Hello, I'm [Rizky Nurahman](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -48,24 +46,6 @@
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=reign57&theme=react&show_icons=true&include_all_commits=true" />
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reign57&theme=react&layout=compact" />
 </p>
-
-	
-### Skills
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='26px'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='26px'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='26px'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='26px' />
-<br>
 
 ### Contact
 <p align="center">
