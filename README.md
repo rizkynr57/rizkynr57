@@ -3,11 +3,8 @@
 
 
 ## Hello, I'm [Rizky Nurahman](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><b>Visitor</b></p>
+<p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><b>Profile Views :</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="" /> </p>
 
 
 <a href="https://twitter.com/RizkyNRN">
