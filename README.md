@@ -42,10 +42,9 @@
 
 
 
-<p align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=rizkynr57&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkynr57&theme=react&layout=compact" />
-</p>
+
+![RizkyNR's Github Stats](https://github-readme-stats.vercel.app/api?username=rizkynr57&show_icons=true&theme=radical)
+
 
 ### Contact
 <p align="center">
@@ -85,6 +84,7 @@
 <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="" />
 </p>
 
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
