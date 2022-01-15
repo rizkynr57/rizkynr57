@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
  <img src="https://camo.githubusercontent.com/561b5d2111ce802214b018b6cc323ee4d9f66b97453ea6d8c4967db41b98f840/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d56696e6179616b426563746f7232303032267468656d653d64726163756c612672616e6b3d532c4141412c41412c422c432c41266d617267696e2d773d3130"><br>
-
+<p align="center"><a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a></p>
 
 ## Hello, I'm [Rizky Nurahman](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><b>Profile Views :</b></p>
@@ -9,10 +9,10 @@
 
 <a href="https://twitter.com/RizkyNRN">
   <img src="https://img.shields.io/badge/@RizkyNRN-1da1f2?style=for-the-badge&labelColor=1da1f2&color=1da1f2&logo=twitter&logoColor=white&label=Follow" alt="Follow on Twitter"/>
-  </a>
+  </a><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
-[![Gmail Badge](https://img.shields.io/badge/-rizky.nurahman48@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizky.nurahman48@gmail.com)](mailto:rizky.nurahman48@gmail.com) <br />
-[![​Facebook Badge​](https://img.shields.io/badge/-Rheazkyy_-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?email=rizky.nurahman.77=about)](https://www.facebook.com/profile.php?email=rizky.nurahman.77=about)
+[![Gmail Badge](https://img.shields.io/badge/-rizky.nurahman48@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizky.nurahman48@gmail.com)](mailto:rizky.nurahman48@gmail.com) <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> <br />
+[![​Facebook Badge​](https://img.shields.io/badge/-Rheazkyy_-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?email=rizky.nurahman.77=about)](https://www.facebook.com/profile.php?email=rizky.nurahman.77=about) <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
 
 <br>
@@ -22,9 +22,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2314465C&size=30&lines=I'm+Student+of+Assalaam!;Prospective+Web+Developer!;And+Designer!!!)](https://git.io/typing-svg)
 
 
-<p align="center">
-	
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<p align="center">  
 
     💻 I like to make an code experiments just for fun!!
     📕 I like to try and learn new somethings!!!
@@ -58,7 +56,7 @@
 	
 </p>
 
-### Technologies
+### Technologies <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
