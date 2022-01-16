@@ -1,5 +1,4 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<p align="center"><a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a></p>
 <img src="https://camo.githubusercontent.com/561b5d2111ce802214b018b6cc323ee4d9f66b97453ea6d8c4967db41b98f840/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d56696e6179616b426563746f7232303032267468656d653d64726163756c612672616e6b3d532c4141412c41412c422c432c41266d617267696e2d773d3130"><br>
 
 
