@@ -30,7 +30,9 @@
 <img alt="" width="100%"  src="https://github.com/reign90/images/blob/main/FIQlyecaQAAiIlY.jpeg">
 </p>
 
-![RizkyNR's Github Stats](https://github-readme-stats.vercel.app/api?username=rizkynr57&show_icons=true&theme=radical)
+<a href="https://github.com/jeremykenedy">
+  <img align="center" src="https://github-readme-stats-deploy-jeremykenedy.vercel.app/api?username=jeremykenedy&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=30,222222,444444&title_color=fff&text_color=fff&line_height=20&custom_title=GitHub%20Stats&hide_border=true" />
+</a>
 
 ### Contact
 <p align="center">
