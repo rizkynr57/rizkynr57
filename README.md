@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img alt="" width="100%"  src="https://github.com/reign90/images/blob/main/FIQlyecaQAAiIlY.jpeg">
+<img alt="" width="100%"  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </p>
 
 <a href="https://github.com/jeremykenedy">
