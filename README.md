@@ -12,8 +12,6 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2314465C&size=30&lines=I'm+Student+of+Assalaam!;Prospective+Web+Developer!;And+Designer!!!)](https://git.io/typing-svg)
-
 <p align="center">  
 
     💻 I like to make an code experiments just for fun!!
