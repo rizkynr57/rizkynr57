@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img alt="" width="100%"  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img alt="" width="100%"  src="https://github.com/rizkynr57/images/blob/main/anime-hacking.gif">
 </p>
 
 <a href="https://github.com/jeremykenedy">
