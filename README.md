@@ -1,5 +1,4 @@
-<img width ="100%" src="https://camo.githubusercontent.com/561b5d2111ce802214b018b6cc323ee4d9f66b97453ea6d8c4967db41b98f840/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d56696e6179616b426563746f7232303032267468656d653d64726163756c612672616e6b3d532c4141412c41412c422c432c41266d617267696e2d773d3130">
-
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryasoni98" alt="aryasoni98" /></a></p>
 <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><b>Profile Views :</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
 
@@ -24,6 +23,8 @@
 </p>
 
 <img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=rizkynr57&show_icons=true&hide_border=true" />
+
+![RizkyN GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizkynr57)
 
 ### Contact
 <p align="center">
