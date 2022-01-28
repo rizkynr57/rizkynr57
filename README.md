@@ -1,4 +1,4 @@
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizkynr57" alt="rizkynr57" /></a></p>
+<p><img width="100%" src="https://github.com/acervenky/acervenky/blob/master/assets/vsneon1.gif"/>
 <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><b>Profile Views :</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
 
