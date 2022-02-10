@@ -1,4 +1,3 @@
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rizkynr57&column=7&theme=onelight" />
 <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><b>Profile Views :</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
 
@@ -21,10 +20,6 @@
 <p align="center">
 <img alt="" width="100%"  src="https://github.com/rizkynr57/images/blob/main/anime-hacking.gif">
 </p>
-
-<img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=rizkynr57&show_icons=true&hide_border=true" />
-
-![RizkyN GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizkynr57)
 
 ### Technologies
 
