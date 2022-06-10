@@ -1,5 +1,3 @@
-<p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><b>Profile Views :</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
 
 <a href="https://twitter.com/RizkyNRN">
   <img src="https://img.shields.io/badge/@RizkyNRN-1da1f2?style=for-the-badge&labelColor=1da1f2&color=1da1f2&logo=twitter&logoColor=white&label=Follow" alt="Follow on Twitter"/>
