@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/@RizkyNRN-1da1f2?style=for-the-badge&labelColor=1da1f2&color=1da1f2&logo=twitter&logoColor=white&label=Follow" alt="Follow on Twitter"/>
   </a><a href='https://archiveprogram.github.com/'><br/>
 
-[![Gmail Badge](https://img.shields.io/badge/-rizky.nurahman48@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizky.nurahman48@gmail.com)](mailto:rizky.nurahman48@gmail.com)<br/>
+[![Gmail Badge](https://img.shields.io/badge/-rizkynurahman508@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizky.nurahman48@gmail.com)](mailto:rizky.nurahman48@gmail.com)<br/>
 <p align="center">  
 
     💻 I like to make an code experiments just for fun!!
